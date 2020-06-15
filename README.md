@@ -18,7 +18,10 @@ void app_main() {
 			button->check(nullptr, [](uint8_t pin) {
 				switch (pin) {
 					case 37:
-						_i("relesed gpio 37");
+						_i("released gpio 37");
+						break;
+					case 38:
+						_i("released gpio 38");
 						break;
 					case 39:
 						_i("released gpio 39");
