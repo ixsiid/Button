@@ -1,0 +1,22 @@
+{
+	"name": "M5Stack Buttons for espidf",
+	"keywords": "esp32, MCP3426, espidf, M5Stack",
+	"description": "M5Stack Buttons for espidf",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ixsiid/Button.git"
+	},
+	"authors": [
+		{
+			"name": "KIM Talchi",
+			"email": "ixsiid@halzion.net",
+			"url": "https://halzion.net",
+			"maintainer": true
+		}
+	],
+	"version": "1.0.0",
+	"frameworks": [
+		"espidf"
+	],
+	"platforms": "espressif32"
+}
